@@ -6,6 +6,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-athira_s_sabu-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/athira-s-sabu/)](https://www.linkedin.com/in/athira-s-sabu/)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=athirassabu)
 
+I'm Athira from India, and I am a passionate software tester. I really enjoy learning languages and frameworks like java,python,javascript as well as work in WordPress. I also enjoy sharing my knowledge with others.
+
 - 🔭 I’m currently working with **Cognizant**
 
 - 🌱 As **Automation Tester**
