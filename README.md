@@ -2,14 +2,17 @@
 <h3 align="center">A passionate automation test engineer</h3>
 <img align="center" src="https://raw.githubusercontent.com/athirassabu/athirassabu/main/img.PNG"/>
 
+[![Instagram Badge](https://img.shields.io/badge/-codingpotter-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/athira_s_sabu/)](https://instagram.com/athira_s_sabu)
+[![Linkedin Badge](https://img.shields.io/badge/-dhanrajdc7-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/athira-s-sabu/)](https://www.linkedin.com/in/athira-s-sabu/)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dhanrajdc7)
 
 - 🔭 I’m currently working with **Cognizant**
 
-- 🌱 I’m currently learning **Javascript and Python**
+- 🌱 As **Automation Tester**
 
-- 👯 I’m looking to collaborate on **new learning**
+- 👯 My work experience is on **Selenium with java using Testng and Cucumber,Restassured API testing,Accessibility testing using Deque**
 
-- 💬 Ask me about **Java,selenium**
+- 💬 Please feel free to ** check my works**
 
 - 📫 How to reach me **athirasabu94@gmail.com**
 
