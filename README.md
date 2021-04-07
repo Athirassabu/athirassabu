@@ -2,8 +2,8 @@
 <h3 align="center">A passionate automation test engineer</h3>
 <img align="center" src="https://raw.githubusercontent.com/athirassabu/athirassabu/main/img.PNG"/>
 
-[![Instagram Badge](https://img.shields.io/badge/-codingpotter-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/athira_s_sabu/)](https://instagram.com/athira_s_sabu)
-[![Linkedin Badge](https://img.shields.io/badge/-dhanrajdc7-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/athira-s-sabu/)](https://www.linkedin.com/in/athira-s-sabu/)
+[![Instagram Badge](https://img.shields.io/badge/-athira_s_sabu-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/athira_s_sabu/)](https://instagram.com/athira_s_sabu)
+[![Linkedin Badge](https://img.shields.io/badge/-athira_s_sabu-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/athira-s-sabu/)](https://www.linkedin.com/in/athira-s-sabu/)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dhanrajdc7)
 
 - 🔭 I’m currently working with **Cognizant**
@@ -12,7 +12,7 @@
 
 - 👯 My work experience is on **Selenium with java using Testng and Cucumber,Restassured API testing,Accessibility testing using Deque**
 
-- 💬 Please feel free to ** check my works**
+- 💬 Please feel free to **check my works**
 
 - 📫 How to reach me **athirasabu94@gmail.com**
 
