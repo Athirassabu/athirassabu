@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Athira S Sabu</h1>
 <h3 align="center">A passionate automation test engineer</h3>
-<img align="center" src="https://raw.githubusercontent.com/athirassabu/athirassabu/main/IMG-4640.jpg"/>
+<img align="center" src="https://raw.githubusercontent.com/athirassabu/athirassabu/main/img.jpg"/>
 
 
 - 🔭 I’m currently working with **Cognizant**
