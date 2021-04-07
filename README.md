@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Athira S Sabu</h1>
 <h3 align="center">A passionate automation test engineer</h3>
-<img align="center" src="https://raw.githubusercontent.com/athirassabu/athirassabu/main/img.PNG"/>
+<img align="center" src="https://raw.githubusercontent.com/athirassabu/athirassabu/main/img01.PNG"/>
 
 [![Instagram Badge](https://img.shields.io/badge/-athira_s_sabu-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/athira_s_sabu/)](https://instagram.com/athira_s_sabu)
 [![Linkedin Badge](https://img.shields.io/badge/-athira_s_sabu-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/athira-s-sabu/)](https://www.linkedin.com/in/athira-s-sabu/)
