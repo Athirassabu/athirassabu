@@ -4,7 +4,7 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-athira_s_sabu-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/athira_s_sabu/)](https://instagram.com/athira_s_sabu)
 [![Linkedin Badge](https://img.shields.io/badge/-athira_s_sabu-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/athira-s-sabu/)](https://www.linkedin.com/in/athira-s-sabu/)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dhanrajdc7)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=athirassabu)
 
 - 🔭 I’m currently working with **Cognizant**
 
