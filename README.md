@@ -8,7 +8,7 @@
 
 **I'm Athira from India, and I am a passionate software tester. I really enjoy learning languages and frameworks like java,python,javascript as well as work in WordPress. I also enjoy sharing my knowledge with others.**
 
-- 🔭 I’m currently working with **Cognizant**
+- 🔭 I’m currently working with **Oracle**
 
 - 🌱 As **Automation Tester**
 
